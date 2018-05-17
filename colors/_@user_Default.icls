@@ -1,0 +1,23 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-01-26T11:16:48</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2018-02-11T14:18:21</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffef6e" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffb142" />
+        <option name="ERROR_STRIPE_COLOR" value="f0adf0" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
