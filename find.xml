@@ -25,14 +25,14 @@
       <mask>po</mask>
       <mask>p</mask>
       <mask>*.jav</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.j</mask>
+      <mask>*</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
