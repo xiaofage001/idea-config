@@ -26,6 +26,9 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
